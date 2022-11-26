@@ -68,6 +68,4 @@ app.post("/failure", function(req, res){
 app.listen(3000);
 
 
-// statusCode: 200
-//0d634227e946840d3bb61d32caa7dce6-us11
-// f02dadca6e
+
